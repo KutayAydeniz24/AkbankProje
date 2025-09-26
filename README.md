@@ -20,9 +20,7 @@ Model Değerlendirme: Accuracy/Loss grafiklerinin incelenmesi, Confusion Matrix,
 
 ## **Elde Edilen Sonuçlar**  
 
-Doğrulama doğruluğu: XX.XX%
-
-Test doğruluğu: YY.YY%
-
 En çok karışan sınıflar: [ör. sınıf A ↔ sınıf B]
 Sonuçlar, modelin çoğu sınıfı başarılı bir şekilde ayırt edebildiğini göstermektedir. Grad-CAM analizleri sayesinde modelin karar verirken hangi bölgeleri dikkate aldığı gözlemlenmiştir.
+
+https://www.kaggle.com/code/zekeriyakutayaydeniz/akbankproject
