@@ -1,4 +1,5 @@
 # AkbankProje
+
 Projenin Amacı
 
 Bu projenin amacı, verilen görsel veri seti üzerinde derin öğrenme tabanlı bir CNN modeli kullanarak sınıflandırma yapmaktır. Amaç, farklı sınıfları olabildiğince yüksek doğrulukla ayırt eden bir model geliştirmektir. Ayrıca modelin performansını artırmak için veri önişleme, veri çoğaltma (data augmentation) ve hiperparametre optimizasyonu teknikleri uygulanmıştır.
